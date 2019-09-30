@@ -8,3 +8,6 @@ def square_array(array)
   end
 end
 
+def square_array
+  counter = 0
+  numbers = 
