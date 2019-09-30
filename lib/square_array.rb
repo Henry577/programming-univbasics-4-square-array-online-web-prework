@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(array[2,3,4])
  counter = 0
  
   while array[counter]
@@ -8,6 +8,3 @@ def square_array(array)
   end
 end
 
-def square_array
-  counter = 0
-  numbers = 
